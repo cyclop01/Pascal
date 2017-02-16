@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Media.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="5" Y="10"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="21" Column="23"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="4" Column="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="8" Column="21"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="17" Column="24"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="15" Column="14"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="9" Column="7"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="8" Column="27"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="3" Column="25" TopLine="3"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="34" Column="5" TopLine="13"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="21" Column="11" TopLine="10"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="26" Column="41" TopLine="15"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Media.lpr"/>
+        <Caret Line="27" Column="38" TopLine="16"/>
+      </Position12>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

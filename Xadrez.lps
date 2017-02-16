@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Xadrez.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="84"/>
+        <CursorPos X="19" Y="105"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="Xadrez.lpr"/>
+        <Caret Line="16" Column="25"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Xadrez.lpr"/>
+        <Caret Line="20" Column="4" TopLine="5"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Xadrez.lpr"/>
+        <Caret Line="29" Column="3" TopLine="15"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Xadrez.lpr"/>
+        <Caret Line="35" Column="29" TopLine="14"/>
+      </Position4>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

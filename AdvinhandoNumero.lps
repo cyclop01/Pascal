@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="10" Y="12"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="21" HistoryIndex="20">
+      <Position1>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="30" Column="7" TopLine="9"/>
+      </Position1>
+      <Position2>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="29" Column="17" TopLine="8"/>
+      </Position2>
+      <Position3>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="30" Column="5" TopLine="10"/>
+      </Position3>
+      <Position4>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="22" Column="30" TopLine="11"/>
+      </Position4>
+      <Position5>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="26" Column="30" TopLine="11"/>
+      </Position5>
+      <Position6>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="25" Column="30" TopLine="9"/>
+      </Position6>
+      <Position7>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="26" Column="16" TopLine="9"/>
+      </Position7>
+      <Position8>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="22" Column="31" TopLine="9"/>
+      </Position8>
+      <Position9>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="23" Column="3" TopLine="9"/>
+      </Position9>
+      <Position10>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="28" Column="16" TopLine="11"/>
+      </Position10>
+      <Position11>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="32" Column="17" TopLine="12"/>
+      </Position11>
+      <Position12>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="29" Column="13" TopLine="10"/>
+      </Position12>
+      <Position13>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="17" Column="11" TopLine="9"/>
+      </Position13>
+      <Position14>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="19" Column="7" TopLine="5"/>
+      </Position14>
+      <Position15>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="67" Column="8" TopLine="9"/>
+      </Position15>
+      <Position16>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="27" Column="7" TopLine="16"/>
+      </Position16>
+      <Position17>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="14" TopLine="6"/>
+      </Position17>
+      <Position18>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="4" Column="20"/>
+      </Position18>
+      <Position19>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="29" Column="12" TopLine="18"/>
+      </Position19>
+      <Position20>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="12" Column="15"/>
+      </Position20>
+      <Position21>
+        <Filename Value="AdvinhandoNumero.lpr"/>
+        <Caret Line="42" Column="13" TopLine="29"/>
+      </Position21>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

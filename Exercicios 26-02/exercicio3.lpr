@@ -1,0 +1,40 @@
+program Exercicio3;
+uses crt;
+
+var n1, n2, r : real;
+    op : char;
+
+
+begin
+
+     writeln('1.SOMAR');
+     writeln('2.SUBTRAIR');
+     writeln('3.MULTIPLICAR');
+     writeln('4.Dividir');
+     readln(op);
+
+     writeln('Entre com o primeiro valor ');
+     readln(n1);
+
+     writeln('Entre com o segundo valor ');
+     readln(n2);
+
+     case op of
+
+     '1':  r := n1 + n2;
+
+     '2':  r := n1 - n2;
+
+     '3':  r := n1 * n2;
+
+     '4':  r := n1 / n2;
+
+     else write('Operacao Inválida');
+
+     end;
+
+     write('Resultado: ',r:0:2);
+
+     readkey;
+end.
+

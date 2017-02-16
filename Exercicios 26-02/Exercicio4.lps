@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Exercicio4.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="4"/>
+        <CursorPos X="16" Y="24"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="Exercicio4.lpr"/>
+        <Caret Line="16" Column="29" TopLine="6"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Exercicio4.lpr"/>
+        <Caret Line="20" Column="12" TopLine="10"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Exercicio4.lpr"/>
+        <Caret Line="23" Column="7" TopLine="10"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Exercicio4.lpr"/>
+        <Caret Line="25" Column="13" TopLine="11"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Exercicio4.lpr"/>
+        <Caret Line="14" Column="11" TopLine="12"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Exercicio4.lpr"/>
+        <Caret Line="18" Column="14" TopLine="5"/>
+      </Position6>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

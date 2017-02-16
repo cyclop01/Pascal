@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="MediaSomaMaiorMenor.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="5"/>
+        <CursorPos X="17" Y="19"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="MediaSomaMaiorMenor.lpr"/>
+        <Caret Line="25" Column="16" TopLine="6"/>
+      </Position1>
+      <Position2>
+        <Filename Value="MediaSomaMaiorMenor.lpr"/>
+        <Caret Line="23" Column="7" TopLine="8"/>
+      </Position2>
+      <Position3>
+        <Filename Value="MediaSomaMaiorMenor.lpr"/>
+        <Caret Line="26" Column="7" TopLine="10"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

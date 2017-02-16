@@ -1,0 +1,38 @@
+program Exercicio2;
+uses crt;
+var a, b, c : integer;
+    d, rd, x1, x2 : real;
+
+
+begin
+write('Entre com o valor de a ');
+read(a);
+
+write('Entre com o valor de b ');
+read(b);
+
+write('Entre com o valor de c ');
+read(c);
+
+d:=(b*b)-4*a*c;
+rd:= sqrt(d);
+
+x1:= ((-b)+ rd)/2*a;
+x2:= ((-b)- rd)/2*a;
+
+if (a=0) then
+begin
+     clrscr;
+     writeln('Nao e uma equacao ax^2+bx+c');
+     end;
+
+
+if (d<0) then
+writeln('Nao existem raizes reais')
+else
+if (d>0) then
+writeln('x1= ',x1:0:2,' x2= ',x2:0:2);
+
+readkey;
+end.
+

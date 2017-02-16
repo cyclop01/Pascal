@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="FatorialProcedimento.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="2"/>
+        <CursorPos X="17" Y="10"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="FatorialProcedimento.lpr"/>
+        <Caret Line="20" Column="20"/>
+      </Position1>
+      <Position2>
+        <Filename Value="FatorialProcedimento.lpr"/>
+        <Caret Line="7" Column="9"/>
+      </Position2>
+      <Position3>
+        <Filename Value="FatorialProcedimento.lpr"/>
+        <Caret Line="5"/>
+      </Position3>
+      <Position4>
+        <Filename Value="FatorialProcedimento.lpr"/>
+        <Caret Line="7" Column="5"/>
+      </Position4>
+      <Position5>
+        <Filename Value="FatorialProcedimento.lpr"/>
+        <Caret Line="10" Column="9"/>
+      </Position5>
+      <Position6>
+        <Filename Value="FatorialProcedimento.lpr"/>
+        <Caret Line="8" Column="25"/>
+      </Position6>
+      <Position7>
+        <Filename Value="FatorialProcedimento.lpr"/>
+        <Caret Line="13" Column="17"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

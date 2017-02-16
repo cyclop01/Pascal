@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Jogodavelha.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="94"/>
+        <CursorPos X="7" Y="101"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="7" Column="38"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="4" Column="6"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="7" Column="34"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="25" Column="10" TopLine="10"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="9" Column="15"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="29" Column="15" TopLine="15"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="9" Column="15"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="35" Column="11" TopLine="15"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="11" Column="35"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="32" Column="31" TopLine="11"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="5" Column="20" TopLine="2"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="31" Column="28" TopLine="14"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="5" Column="15"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="19" Column="9" TopLine="2"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="31" Column="40" TopLine="16"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="4" Column="34"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="38" Column="12" TopLine="17"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="34" Column="17" TopLine="21"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="38" Column="6" TopLine="22"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="51" TopLine="35"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="2" Column="10"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="21" Column="44" TopLine="7"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="27" Column="3" TopLine="10"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="62" Column="5" TopLine="48"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="121" Column="15" TopLine="100"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="8" Column="19"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="111" Column="22" TopLine="101"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="113" Column="9" TopLine="100"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Jogodavelha.lpr"/>
+        <Caret Line="111" Column="10" TopLine="100"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Vetor10inteiros"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="20"/>
+        <CursorPos X="21" Y="32"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="19" HistoryIndex="18">
+      <Position1>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="29" Column="20" TopLine="11"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="22" Column="30" TopLine="11"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="31" Column="27" TopLine="8"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="33" Column="15" TopLine="11"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="32" Column="3" TopLine="15"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="31" Column="13" TopLine="17"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="20" Column="12" TopLine="8"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="19" Column="21" TopLine="8"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="35" Column="40" TopLine="15"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="30" Column="19" TopLine="18"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="35" Column="10" TopLine="19"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="30" Column="18" TopLine="19"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="29" Column="34" TopLine="18"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="30" Column="19" TopLine="19"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="33" Column="18" TopLine="16"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="34" Column="20" TopLine="22"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="36" Column="5" TopLine="22"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="33" Column="3" TopLine="20"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Vetor10inteiros.lpr"/>
+        <Caret Line="29" Column="33" TopLine="19"/>
+      </Position19>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>

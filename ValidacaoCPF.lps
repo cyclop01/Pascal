@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="ValidacaoCPF.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="25"/>
+        <CursorPos X="18" Y="37"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="ValidacaoCPF.pas"/>
+        <Caret Line="46" Column="29" TopLine="21"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ValidacaoCPF.pas"/>
+        <Caret Line="45" Column="16" TopLine="34"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ValidacaoCPF.pas"/>
+        <Caret Line="122" Column="5" TopLine="105"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ValidacaoCPF.pas"/>
+        <Caret Line="39" Column="11" TopLine="19"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ValidacaoCPF.pas"/>
+        <Caret Line="114" Column="26" TopLine="105"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ValidacaoCPF.pas"/>
+        <Caret Line="112" Column="5" TopLine="100"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ValidacaoCPF.pas"/>
+        <Caret Line="116" Column="27" TopLine="105"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

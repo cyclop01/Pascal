@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Exercicio2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="17"/>
+        <CursorPos X="10" Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="21" HistoryIndex="20">
+      <Position1>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="30" Column="36" TopLine="17"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="18" Column="6" TopLine="9"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="38" Column="23" TopLine="21"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="21" Column="4" TopLine="11"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="18" Column="16" TopLine="11"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="20" Column="19" TopLine="9"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="24" Column="15" TopLine="16"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="29" Column="8" TopLine="20"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="20" Column="29" TopLine="10"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="9" Column="31" TopLine="8"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="25" Column="26" TopLine="15"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="24" Column="25" TopLine="15"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="20" Column="23" TopLine="15"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="27" Column="15" TopLine="12"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="26" Column="17" TopLine="12"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="27" Column="16" TopLine="17"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="19" Column="12" TopLine="12"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="27" Column="64" TopLine="10"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="24" TopLine="11"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="19" Column="12" TopLine="11"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Exercicio2.lpr"/>
+        <Caret Line="34" Column="6" TopLine="19"/>
+      </Position21>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

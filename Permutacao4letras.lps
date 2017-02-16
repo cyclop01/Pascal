@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Permutacao4letras.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="7"/>
+        <CursorPos X="11" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="Permutacao4letras.lpr"/>
+        <Caret Line="19" Column="15"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Permutacao4letras.lpr"/>
+        <Caret Line="3" Column="5"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Permutacao4letras.lpr"/>
+        <Caret Line="14" Column="8" TopLine="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Permutacao4letras.lpr"/>
+        <Caret Line="12" Column="11" TopLine="3"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Permutacao4letras.lpr"/>
+        <Caret Line="23" Column="6" TopLine="6"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="TabuadaAte10.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="14" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="TabuadaAte10.lpr"/>
+        <Caret Line="22" Column="6"/>
+      </Position1>
+      <Position2>
+        <Filename Value="TabuadaAte10.lpr"/>
+        <Caret Line="12" Column="6"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

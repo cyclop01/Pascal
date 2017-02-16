@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="TabuadaN.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="25" Y="14"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="13" HistoryIndex="12">
+      <Position1>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="16" Column="11"/>
+      </Position1>
+      <Position2>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="12" Column="11" TopLine="2"/>
+      </Position2>
+      <Position3>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="10" Column="10"/>
+      </Position3>
+      <Position4>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="12" Column="9"/>
+      </Position4>
+      <Position5>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="21" Column="11"/>
+      </Position5>
+      <Position6>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="10" Column="20" TopLine="3"/>
+      </Position6>
+      <Position7>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="18" Column="3" TopLine="2"/>
+      </Position7>
+      <Position8>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="19" Column="4" TopLine="3"/>
+      </Position8>
+      <Position9>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="17" Column="10" TopLine="3"/>
+      </Position9>
+      <Position10>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="16" Column="6" TopLine="3"/>
+      </Position10>
+      <Position11>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="15" Column="36" TopLine="3"/>
+      </Position11>
+      <Position12>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="13" Column="8"/>
+      </Position12>
+      <Position13>
+        <Filename Value="TabuadaN.lpr"/>
+        <Caret Line="12" Column="21"/>
+      </Position13>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

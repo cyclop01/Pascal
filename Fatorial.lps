@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Fatorial.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="20" Y="13"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="Fatorial.lpr"/>
+        <Caret Line="6" Column="15"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Fatorial.lpr"/>
+        <Caret Line="12" Column="8"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Fatorial.lpr"/>
+        <Caret Line="17" Column="27" TopLine="2"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Fatorial.lpr"/>
+        <Caret Line="20" Column="12" TopLine="2"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Fatorial.lpr"/>
+        <Caret Line="6" Column="16" TopLine="4"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Fatorial.lpr"/>
+        <Caret Line="5" Column="13"/>
+      </Position6>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
